@@ -1,0 +1,7 @@
+
+@use '@material/theme' as theme-variables with (
+  $primary: #88d54e,
+  $secondary: #018786
+);
+
+@use 'balm-ui/dist/balm-ui';
